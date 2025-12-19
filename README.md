@@ -51,7 +51,6 @@ Implementing simple security logic
 
 This project is created for educational purposes only.
 
-## 👨‍💻 Author
+## 👨‍💻 Anshul Sharma
 
-Anshul Sharma
 BCA Student | Cyber Security Enthusiast
